@@ -20,7 +20,7 @@
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="assets/Dashboard.png"
+  <img src="D:/My Projects/Real Time Anomaly Detection System/assets/Dashboard.png"
        alt="Real Time Anomaly Detection System Dashboard"
        width="100%"/>
 </p>
