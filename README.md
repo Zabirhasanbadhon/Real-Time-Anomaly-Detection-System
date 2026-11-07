@@ -17,16 +17,6 @@
 
 ---
 
-## 📸 Dashboard Preview
-
-<p align="center">
-  <img src="D:/My Projects/Real Time Anomaly Detection System/assets/Dashboard.png"
-       alt="Real Time Anomaly Detection System Dashboard"
-       width="100%"/>
-</p>
-
----
-
 ## 🌟 Overview
 
 **Real-Time Anomaly Detection System** is a lightweight, high-performance, AI-powered security and monitoring system designed to detect custom objects and anomalies across multiple video streams simultaneously.
