@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Non shoplifting', 'Shoplifting']
+
+roboflow:
+  workspace: detection-6bzqe
+  project: detection-vft5t
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/detection-6bzqe/detection-vft5t/dataset/2
